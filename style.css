@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.canvas {
+  margin: 100px auto;
+  width: 80%;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  border: 2px solid black;
+  margin: 10px;
+}
+
+#grey { background: grey; }
+#white { background: white; }
+#blue  { background: blue; }
+#yellow { background: yellow; }
